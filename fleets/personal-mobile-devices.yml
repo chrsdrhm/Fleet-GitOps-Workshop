@@ -6,8 +6,8 @@ controls:
   macos_settings:
     custom_settings:
       - path: ../lib/ios/configuration-profiles/passcode-settings.json
-        labels_exclude_any:
-          - C-Suite
+    labels_exclude_any:
+      - C-Suite
 software:
 settings:
   secrets:
