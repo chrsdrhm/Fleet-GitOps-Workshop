@@ -8,6 +8,7 @@ controls:
       - path: ../lib/ios/configuration-profiles/passcode-settings.json
         labels_exclude_any:
           - C-Suite
+  enable_disk_encryption: true
 software:
 settings:
   secrets:
