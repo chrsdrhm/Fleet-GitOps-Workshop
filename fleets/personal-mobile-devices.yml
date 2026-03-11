@@ -9,6 +9,9 @@ controls:
         labels_exclude_any:
           - C-Suite
   enable_disk_encryption: true
+  ipados_updates:
+    deadline: "2026-06-30"
+    minimum_version: "26.2"
 software:
 settings:
   secrets:
