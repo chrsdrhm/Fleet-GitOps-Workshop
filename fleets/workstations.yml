@@ -11,6 +11,8 @@ controls:
   macos_updates:
     deadline: "2026-04-30"
     minimum_version: "26.0"
+  scripts:
+    - path: ../lib/windows/scripts/set-wallpaper.ps1
 software:
 settings:
   secrets:
