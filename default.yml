@@ -21,4 +21,4 @@ org_settings:
       enable_activities_webhook: true
       destination_url: https://webhook.site/2a2e5501-ce71-4438-9ab5-6b4fe050462a
   labels:
-    - path: ./lib/all/labels/global-label.yml
+    - path: ./lib/all/labels/global-labels.yml
